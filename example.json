@@ -1,0 +1,28 @@
+{
+  "client": "Acme Startup Inc",
+  "from": "Kleo Geos",
+  "date": "2026-10-22",
+  "project_summary": "A content and growth strategy engagement covering social presence, posting cadence, and a 90-day content calendar.",
+  "outcome": "A repeatable content system your team can run without you, plus the first 90 days of content planned and ready to execute.",
+  "approach_highlights": [
+    "Audit of current channels and competitor positioning",
+    "A content pillar framework tailored to your audience",
+    "A 90-day calendar with topics, formats, and posting cadence"
+  ],
+  "scope_fee": 250,
+  "scope_fee_credit_note": "credited in full toward the project if you move forward",
+  "detailed_scope": [
+    "Week 1: Channel audit, competitor teardown (5 accounts), audience research summary",
+    "Week 2: Content pillar framework (4-6 pillars) with example topics per pillar",
+    "Week 3: 90-day calendar (topic, format, hook, posting day) delivered as a spreadsheet",
+    "Week 4: Handoff call + lightweight style guide (tone, do/don't examples)"
+  ],
+  "deliverables": [
+    "Channel audit document (PDF)",
+    "Content pillar framework (PDF)",
+    "90-day content calendar (spreadsheet)",
+    "Style guide (1-2 pages)"
+  ],
+  "timeline": "4 weeks from scope fee payment to final handoff call.",
+  "valid_until": "2026-11-05"
+}
