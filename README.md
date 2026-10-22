@@ -23,6 +23,11 @@ This tool generates both from one input file, so the split is the default, not a
 
 ## Usage
 
+Runs via Python or directly via `npx` (no install), same logic, same output:
+```
+npx github:kleogeos/freelance-scope-doc-cli scope.json
+```
+
 ```
 python3 scope_doc.py scope.json
 # writes public-pitch.html and paid-scope.html
