@@ -1,0 +1,31 @@
+[project]
+name = "freelance-scope-doc-cli"
+version = "1.0.0"
+description = "Generate a free public pitch and a paid confidential scope document from one JSON file. Zero dependencies."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{name = "kleogeos", email = "kleogeos@gmail.com"}]
+keywords = ["freelance", "proposal", "scope", "pitch", "cli"]
+classifiers = [
+    "Environment :: Console",
+    "Intended Audience :: Other Audience",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Office/Business :: Financial",
+]
+
+[project.urls]
+Homepage = "https://github.com/kleogeos/freelance-scope-doc-cli"
+Repository = "https://github.com/kleogeos/freelance-scope-doc-cli"
+
+[project.scripts]
+freelance-scope-doc = "scope_doc:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["scope_doc"]
